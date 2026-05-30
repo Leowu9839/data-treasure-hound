@@ -1,5 +1,10 @@
 # 数据宝藏猎犬 · Data Treasure Hound
 
+
+[![Stars](https://img.shields.io/github/stars/Leowu9839/=social)](https://github.com/Leowu9839/data-treasure-hound/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+> 🏠 这是 [Leo's AI Skill Workshop](https://github.com/Leowu9839/leos-workshop) 的 6 大 Skill 之一，点击查看完整项目集。
 > 用亚里士多德目的因 + 苏格拉底追问拆解需求，在语义空间跨域发现被忽视的数据源。黑箱交付——猎犬带回猎物，不展示狩猎过程。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -10,7 +15,7 @@
 ## ⚡ 安装
 
 ```bash
-git clone https://gitee.com/leos-workshop/data-treasure-hound.git
+git clone https://github.com/Leowu9839/data-treasure-hound.git
 cp -r data-treasure-hound ~/.codex/skills/
 ```
 
@@ -83,3 +88,18 @@ cp -r data-treasure-hound ~/.codex/skills/
 ## 📄 许可
 
 MIT License · 欢迎使用、修改、分发。
+
+---
+
+## 🔗 相关项目
+
+这是 [Leo's AI Skill Workshop](https://github.com/Leowu9839/leos-workshop) 的一部分，更多 Skill：
+
+| Skill | 场景 |
+|:---|:---|
+| 🏛️ [制度顾问](https://github.com/Leowu9839/policy-counsel) | 企业合规 / 政策分析 |
+| 🐕 [数据宝藏猎犬](https://github.com/Leowu9839/data-treasure-hound) | 数据调研 / 信息挖掘 |
+| ⚙️ [工程化 Agent](https://github.com/Leowu9839/engineering-agent) | 开发提效 / 自动化 |
+| 💎 [富人生活顾问](https://github.com/Leowu9839/luxury-experience-designer) | 生活方式 / 品质提升 |
+| ✈️ [LXTI 旅行人格](https://github.com/Leowu9839/lxti-travel-personality) | 旅行规划 / 人格测试 |
+| 🔍 [拆穿 Skill](https://github.com/Leowu9839/deconstruct-skill) | 批判思维 / 信息甄别 |
